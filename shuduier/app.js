@@ -2,10 +2,6 @@
 App({
   onLaunch: function(options) {
 
-
-
-
-
     // 获取openid
     var _this = this;
     my.getAuthCode({
